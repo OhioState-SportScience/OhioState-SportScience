@@ -24,9 +24,7 @@ Our research covers a wide range of topics within sports science, including biom
 
 ## Projects
 
-We actively engage in various projects aimed at applying sports science principles to real-world scenarios. Check out some of our current projects:
-
-# project description
+We actively engage in various projects aimed at applying sports science principles to real-world scenarios. Check back soon to learn about our current projects!
 
 ## Resources
 
