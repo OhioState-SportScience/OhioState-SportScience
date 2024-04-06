@@ -1,4 +1,4 @@
-# Ohio State Sport Science Repository
+# The Ohio State University - Department of Athletics Sport Science
 
 Welcome to the Ohio State Sport Science repository! This repository is dedicated to research, projects, and resources related to sports science at The Ohio State University.
 
